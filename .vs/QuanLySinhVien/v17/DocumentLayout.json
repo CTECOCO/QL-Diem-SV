@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|e:\\do an 2\\quanlysinhvien\\ql-diem-sv\\gui\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:gui\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\gui\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:gui\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\gui\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:gui\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\gui\\themsuadiemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:gui\\themsuadiemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\gui\\themsuadiemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:gui\\themsuadiemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\gui\\diemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:gui\\diemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\gui\\bangdiemchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:gui\\bangdiemchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\quanlysinhviendataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:quanlysinhviendataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\gui\\diemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:gui\\diemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\dto\\dto_diemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:dto\\dto_diemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\bll\\bll_diemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:bll\\bll_diemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\gui\\themsuadiemthi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:gui\\themsuadiemthi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\gui\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:gui\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\dal\\dal_diemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:dal\\dal_diemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\gui\\moncuakhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:gui\\moncuakhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\gui\\themsuakhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:gui\\themsuakhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\gui\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:gui\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\gui\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:gui\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\gui\\themsuasinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAD60B74-F09E-4A79-A480-1DCB4D628DB5}|QuanLySinhVien.csproj|solutionrelative:gui\\themsuasinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DangKy.cs [Design]",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\DangKy.cs",
+              "RelativeDocumentMoniker": "GUI\\DangKy.cs",
+              "ToolTip": "E:\\do an 2\\1\\QuanLySinhVien\\GUI\\DangKy.cs [Design]",
+              "RelativeToolTip": "..\\..\\1\\QuanLySinhVien\\GUI\\DangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:10:16.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\DangNhap.cs",
+              "RelativeDocumentMoniker": "GUI\\DangNhap.cs",
+              "ToolTip": "E:\\do an 2\\1\\QuanLySinhVien\\GUI\\DangNhap.cs [Design]",
+              "RelativeToolTip": "..\\..\\1\\QuanLySinhVien\\GUI\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:11:20.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DiemThi.cs [Design]",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\DiemThi.cs",
+              "RelativeDocumentMoniker": "GUI\\DiemThi.cs",
+              "ToolTip": "E:\\do an 2\\1\\QuanLySinhVien\\GUI\\DiemThi.cs [Design]",
+              "RelativeToolTip": "..\\..\\1\\QuanLySinhVien\\GUI\\DiemThi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:11:20.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrangChu.cs [Design]",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\TrangChu.cs",
+              "RelativeDocumentMoniker": "GUI\\TrangChu.cs",
+              "ToolTip": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\TrangChu.cs [Design]",
+              "RelativeToolTip": "GUI\\TrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:33:20.181Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrangChu.cs",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\TrangChu.cs",
+              "RelativeDocumentMoniker": "GUI\\TrangChu.cs",
+              "ToolTip": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\TrangChu.cs",
+              "RelativeToolTip": "GUI\\TrangChu.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAtwGsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:34:59.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThemSuaDiemThi.cs",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\ThemSuaDiemThi.cs",
+              "RelativeDocumentMoniker": "GUI\\ThemSuaDiemThi.cs",
+              "ToolTip": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\ThemSuaDiemThi.cs",
+              "RelativeToolTip": "GUI\\ThemSuaDiemThi.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAhwNsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T05:19:44.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThemSuaDiemThi.cs [Design]",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\ThemSuaDiemThi.cs",
+              "RelativeDocumentMoniker": "GUI\\ThemSuaDiemThi.cs",
+              "ToolTip": "E:\\do an 2\\1\\QuanLySinhVien\\GUI\\ThemSuaDiemThi.cs [Design]",
+              "RelativeToolTip": "..\\..\\1\\QuanLySinhVien\\GUI\\ThemSuaDiemThi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:19:35.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BangDiemChiTiet.cs [Design]",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\BangDiemChiTiet.cs",
+              "RelativeDocumentMoniker": "GUI\\BangDiemChiTiet.cs",
+              "ToolTip": "E:\\do an 2\\1\\QuanLySinhVien\\GUI\\BangDiemChiTiet.cs [Design]",
+              "RelativeToolTip": "..\\..\\1\\QuanLySinhVien\\GUI\\BangDiemChiTiet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:07:24.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\DAL\\DBConnection.cs",
+              "RelativeDocumentMoniker": "DAL\\DBConnection.cs",
+              "ToolTip": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\DAL\\DBConnection.cs",
+              "RelativeToolTip": "DAL\\DBConnection.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAjwAwAAACUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:04:38.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-05T04:08:43.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\DangNhap.cs",
+              "RelativeDocumentMoniker": "GUI\\DangNhap.cs",
+              "ToolTip": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\DangNhap.cs",
+              "RelativeToolTip": "GUI\\DangNhap.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowCMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:06:32.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DangKy.cs",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\DangKy.cs",
+              "RelativeDocumentMoniker": "GUI\\DangKy.cs",
+              "ToolTip": "E:\\do an 2\\1\\QuanLySinhVien\\GUI\\DangKy.cs*",
+              "RelativeToolTip": "..\\..\\1\\QuanLySinhVien\\GUI\\DangKy.cs*",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAWwGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:11:54.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BLL_DiemThi.cs",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\BLL\\BLL_DiemThi.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL_DiemThi.cs",
+              "ToolTip": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\BLL\\BLL_DiemThi.cs",
+              "RelativeToolTip": "BLL\\BLL_DiemThi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:49:20.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuanLySinhVienDataSet.xsd",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\QuanLySinhVienDataSet.xsd",
+              "RelativeDocumentMoniker": "QuanLySinhVienDataSet.xsd",
+              "ToolTip": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\QuanLySinhVienDataSet.xsd",
+              "RelativeToolTip": "QuanLySinhVienDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-06-10T05:32:53.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DTO_DiemThi.cs",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\DTO\\DTO_DiemThi.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_DiemThi.cs",
+              "ToolTip": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\DTO\\DTO_DiemThi.cs",
+              "RelativeToolTip": "DTO\\DTO_DiemThi.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T11:01:46.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DiemThi.cs",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\DiemThi.cs",
+              "RelativeDocumentMoniker": "GUI\\DiemThi.cs",
+              "ToolTip": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\DiemThi.cs",
+              "RelativeToolTip": "GUI\\DiemThi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T05:18:41.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ThemSuaDiemThi.Designer.cs",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\ThemSuaDiemThi.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\ThemSuaDiemThi.Designer.cs",
+              "ToolTip": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\ThemSuaDiemThi.Designer.cs",
+              "RelativeToolTip": "GUI\\ThemSuaDiemThi.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAP8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:12:31.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DAL_DiemThi.cs",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\DAL\\DAL_DiemThi.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_DiemThi.cs",
+              "ToolTip": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\DAL\\DAL_DiemThi.cs",
+              "RelativeToolTip": "DAL\\DAL_DiemThi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:49:15.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ThemSuaKhoa.cs [Design]",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\ThemSuaKhoa.cs",
+              "RelativeDocumentMoniker": "GUI\\ThemSuaKhoa.cs",
+              "ToolTip": "E:\\do an 2\\1\\QuanLySinhVien\\GUI\\ThemSuaKhoa.cs [Design]",
+              "RelativeToolTip": "..\\..\\1\\QuanLySinhVien\\GUI\\ThemSuaKhoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:11:20.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MonCuaKhoa.cs [Design]",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\MonCuaKhoa.cs",
+              "RelativeDocumentMoniker": "GUI\\MonCuaKhoa.cs",
+              "ToolTip": "E:\\do an 2\\1\\QuanLySinhVien\\GUI\\MonCuaKhoa.cs [Design]",
+              "RelativeToolTip": "..\\..\\1\\QuanLySinhVien\\GUI\\MonCuaKhoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:11:20.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MonHoc.cs [Design]",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\MonHoc.cs",
+              "RelativeDocumentMoniker": "GUI\\MonHoc.cs",
+              "ToolTip": "E:\\do an 2\\1\\QuanLySinhVien\\GUI\\MonHoc.cs [Design]",
+              "RelativeToolTip": "..\\..\\1\\QuanLySinhVien\\GUI\\MonHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:11:20.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Khoa.cs",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\Khoa.cs",
+              "RelativeDocumentMoniker": "GUI\\Khoa.cs",
+              "ToolTip": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\Khoa.cs",
+              "RelativeToolTip": "GUI\\Khoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:11:20.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ThemSuaSinhVien.cs [Design]",
+              "DocumentMoniker": "E:\\do an 2\\QuanLySinhVien\\QL-Diem-SV\\GUI\\ThemSuaSinhVien.cs",
+              "RelativeDocumentMoniker": "GUI\\ThemSuaSinhVien.cs",
+              "ToolTip": "E:\\do an 2\\1\\QuanLySinhVien\\GUI\\ThemSuaSinhVien.cs [Design]",
+              "RelativeToolTip": "..\\..\\1\\QuanLySinhVien\\GUI\\ThemSuaSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:11:20.986Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
